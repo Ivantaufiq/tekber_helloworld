@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">tekber_helloworld</string>
+    <string name="app_name">Hello Toast</string>
+    <string name="label_count">Count</string>
+    <string name="label_toast">Toast</string>
+    <string name="hasilhitung">0</string>
+
 </resources>
